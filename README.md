@@ -1,3 +1,5 @@
+> **ARCHIVED (D-831, 2026-11-03):** this template has been folded into [qompassai/dotnet](https://github.com/qompassai/dotnet/tree/main/template) — new projects start from there. This repo is kept read-only for history.
+
 <!-- qompassai/dotnet-template/README.md -->
 <!-- Replace .NET, Template for Qompass AI .NET projects. and dotnet when you instantiate this template. -->
 
